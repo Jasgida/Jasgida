@@ -31,6 +31,6 @@ Email: chukwuemeka.on3@gmail.com
 
 
 📊 GitHub Stats
-
+![Jasgida's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jasgida&show_icons=true&theme=radical)
 
 ⭐️ If you find my work interesting, feel free to star my repos!💬 Let’s connect to talk about DevOps, automation, or just tech in general!
