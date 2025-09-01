@@ -1,16 +1,36 @@
-## Hi there 👋
+👋 Hi, I'm David!
+I'm a passionate DevOps Engineer with a knack for building scalable, reliable, and automated systems. I love bridging the gap between development and operations, streamlining workflows, and empowering teams to deliver high-quality software efficiently.
+🔧 Skills & Expertise
 
-<!--
-**Jasgida/Jasgida** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Cloud Platforms: AWS, Azure, GCP
+Containerization & Orchestration: Docker, Kubernetes
+CI/CD Pipelines: Jenkins, GitHub Actions, CircleCI
+Infrastructure as Code: Terraform, Ansible
+Scripting & Automation: Python, Bash, Java, Nodejs
+Version Control: Git, GitHub, GitLab
+Monitoring & Logging: Prometheus, Grafana, ELK Stack
+Operating Systems: Linux, Windows
 
-Here are some ideas to get you started:
+🚀 What I'm Working On
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Automating infrastructure provisioning with Terraform and Ansible
+Building robust CI/CD pipelines for seamless deployments
+Exploring Kubernetes for container orchestration
+Contributing to open-source DevOps projects
+
+📚 Currently Learning
+
+Advanced Kubernetes features for high-availability clusters
+Serverless architectures on AWS
+Security practices in DevSecOps pipelines
+
+📫 Get in Touch
+
+LinkedIn: https://www.linkedin.com/in/jasgida/
+Email: chukwuemeka.on3@gmail.com
+
+
+📊 GitHub Stats
+
+
+⭐️ If you find my work interesting, feel free to star my repos!💬 Let’s connect to talk about DevOps, automation, or just tech in general!
